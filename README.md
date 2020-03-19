@@ -1,3 +1,7 @@
+This was a quick and dirty experiment which got nice results for the handout (the one labeled recipe). Remove it and use the same formatting rules. I take the printout then laminate the recipe and put it into a binder. I don't expect I'll do any further work on it but you're free to adapt as you want, I declare my changes are public domain (and the recipe as well, but it's not very good.)
+
+------
+
 Hi,
 
 Welcome to the beginnings of Tufte LaTeX package to help you
